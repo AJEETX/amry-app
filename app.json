@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "amry-app",
+    "slug": "amry-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
